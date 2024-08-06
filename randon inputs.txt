@@ -1,0 +1,17 @@
+PAYMENT
+-------
+user id:	123456		
+amount:		 1000
+add-amount:	80000
+account number: 1015123245
+prev-payment:   80000
+result :	NO FRAUD
+
+PAYMENT
+-------
+user id:	 1012124		
+amount:		 100000
+add-amount:	0
+account number: 1212
+prev-payment:   0
+result :	FRAUD
